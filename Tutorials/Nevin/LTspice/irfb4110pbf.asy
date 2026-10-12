@@ -1,0 +1,27 @@
+Version 4
+SymbolType CELL
+LINE Normal 48 0 48 16
+LINE Normal 48 16 28 16
+LINE Normal 28 8 28 28
+LINE Normal 28 36 28 60
+LINE Normal 28 68 28 88
+LINE Normal 28 48 48 48
+LINE Normal 48 48 48 80
+LINE Normal 48 80 28 80
+LINE Normal 48 80 48 96
+LINE Normal 16 8 16 88
+LINE Normal 0 80 16 80
+WINDOW 0 56 32 Left 2
+WINDOW 3 56 72 Left 2
+SYMATTR Prefix X
+SYMATTR Value irfb4110pbf
+SYMATTR ModelFile irfb4110pbf.spi
+PIN 48 0 NONE 0
+PINATTR PinName D
+PINATTR SpiceOrder 1
+PIN 0 80 NONE 0
+PINATTR PinName G
+PINATTR SpiceOrder 2
+PIN 48 96 NONE 0
+PINATTR PinName S
+PINATTR SpiceOrder 3
